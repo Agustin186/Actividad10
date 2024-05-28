@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Actividad 5</title>
+    <link rel="stylesheet" href="./estilo6.css">
+</head>
+<body>
+    <div id="titulo">Selectores individuales</div>
+    <p id="p1">Cada elemento de la web puede hacerce unico con el atributo id</p>
+    <p id="p2">Los valores de id no deben repetirse</p>
+</body>
+</html>
