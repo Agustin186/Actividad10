@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Actividad 5</title>
-    <link rel="stylesheet" href="./estilo6.css">
+    <link rel="stylesheet" href="estilo">
 </head>
 <body>
     <div id="titulo">Selectores individuales</div>
